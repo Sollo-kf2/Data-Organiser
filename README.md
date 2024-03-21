@@ -64,6 +64,3 @@ Contributions are welcome! If you have any ideas for improving the `DataOrganize
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README file further to suit your specific project needs!
