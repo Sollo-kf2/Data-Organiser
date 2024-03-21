@@ -1,7 +1,5 @@
 # DataOrganizer Class
 
-![DataOrganizer](https://github.com/yourusername/yourrepository/images/data_organizer.png)
-
 The `DataOrganizer` class is a versatile tool for managing and manipulating data for machine learning projects. It provides a range of functionalities for loading, preprocessing, splitting, and saving data, making it an essential component of any data science pipeline.
 
 ## Table of Contents
